@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Federica Tommasini and I am a Computer Science and Engineering Graduate at Politecnico di Milano. During my studies I became passionate about software design and development and I have worked on several projects that allowed me to discover different technologies.
+I am Federica Tommasini and I am a Software Engineer with a background in Computer Science and Engineering from Politecnico di Milano.
+Currently working at Blue Reply, focusing on integration software development, testing, technology migrations, API validation, and system monitoring.
+
+### 🎓 WorkExperience:
+- IT consultant at Blue Reply, developing backend systems in java using frameworks such as Springboot, Apache Camel and Quarkus.
 
 ### 🎓 Education:
 - Master of Science in Computer Science and Engineering at Politecnico di Milano
